@@ -1,0 +1,23 @@
+body {
+  font-family: Verdana;
+  background-color: black;
+  background-position: center;
+  text-align: center;
+}
+h1 {
+  font-weight: normal;
+  font-size: 50px;
+  color: white;
+}
+h2 {
+  font-size: 21px;
+  color: gray;
+}
+.download {
+  font-size: 16px;
+  color: Aquamarine;
+}
+.footer {
+  text-align: right;
+  color: gray;
+}
